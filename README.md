@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+
 # Homebrew tap and formula for Alire `alr` ADA
 
 **Note:** Not affiliated in any way with Ada, AdaCore, or Alire. This is a a community contribution.
