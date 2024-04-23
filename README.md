@@ -16,8 +16,10 @@ Or `brew tap skull-squadron/alire` and then `brew install alire`.
 
 [Source here](https://github.com/alire-project/alire/)
 
-### Homebrew `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+### Homebrew
+
+`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
 
 ## License
 
-bsd-2-clause
+[bsd-2-clause](LICENSE.txt)
