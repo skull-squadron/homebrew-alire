@@ -1,11 +1,23 @@
-# Skull-squadron Alire
+# Homebrew tap and formula for Alire `alr` ADA
+
+**Note:** Not affiliated in any way with Ada, AdaCore, or Alire. This is a a community contribution.
 
 ## How do I install these formulae?
 
-`brew install skull-squadron/alire/<formula>`
+`brew install skull-squadron/alire/alire`
 
-Or `brew tap skull-squadron/alire` and then `brew install <formula>`.
+Or `brew tap skull-squadron/alire` and then `brew install alire`.
 
 ## Documentation
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+### Alire
+
+[Documentation here](https://alire.ada.dev/)
+
+[Source here](https://github.com/alire-project/alire/)
+
+### Homebrew `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+
+## License
+
+bsd-2-clause
